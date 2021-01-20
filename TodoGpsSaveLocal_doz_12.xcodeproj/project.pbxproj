@@ -14,6 +14,7 @@
 		DAAD7CF425B86EFC00BAD51B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAAD7CF325B86EFC00BAD51B /* Assets.xcassets */; };
 		DAAD7CF725B86EFC00BAD51B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DAAD7CF625B86EFC00BAD51B /* Preview Assets.xcassets */; };
 		DAAD7CFA25B86EFC00BAD51B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DAAD7CF825B86EFC00BAD51B /* LaunchScreen.storyboard */; };
+		DAAD7D0325B86FD300BAD51B /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAAD7D0225B86FD300BAD51B /* ListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		DAAD7CF625B86EFC00BAD51B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DAAD7CF925B86EFC00BAD51B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DAAD7CFB25B86EFC00BAD51B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DAAD7D0225B86FD300BAD51B /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				DAAD7CFB25B86EFC00BAD51B /* Info.plist */,
 				DAAD7CF025B86EFB00BAD51B /* TodoGpsSaveLocal_doz_12.xcdatamodeld */,
 				DAAD7CF525B86EFC00BAD51B /* Preview Content */,
+				DAAD7D0225B86FD300BAD51B /* ListView.swift */,
 			);
 			path = TodoGpsSaveLocal_doz_12;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			files = (
 				DAAD7CF225B86EFB00BAD51B /* TodoGpsSaveLocal_doz_12.xcdatamodeld in Sources */,
 				DAAD7CEB25B86EFB00BAD51B /* AppDelegate.swift in Sources */,
+				DAAD7D0325B86FD300BAD51B /* ListView.swift in Sources */,
 				DAAD7CED25B86EFB00BAD51B /* SceneDelegate.swift in Sources */,
 				DAAD7CEF25B86EFB00BAD51B /* ContentView.swift in Sources */,
 			);
